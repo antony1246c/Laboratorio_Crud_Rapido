@@ -85,7 +85,9 @@ DB_PASSWORD=
 <div align="center">
   <img src="https://i.ibb.co/hRsj2N6J/91-logo-5-fisc-oficial-rgb.png" alt="FISC" width="200"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://i.ibb.co/3yhkfK7X/6-logo-utp-rgb-oficial.png" alt="UTP" width="200"/>
+  <img src="https://i.ibb.co/sJvM549s/6-logo-utp-rgb-oficial.png" alt="UTP" width="200"/>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+
 </div>
 
 <br>
